@@ -1,0 +1,19 @@
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash.exe
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash.pdb
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\bin\Debug\Crash.exe.manifest
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\bin\Debug\Crash.application
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\bin\Debug\Crash.exe
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\bin\Debug\Crash.pdb
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\MainWindow.baml
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\App.g.cs
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash_MarkupCompile.cache
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash.g.resources
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash.Properties.Resources.resources
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash.exe.manifest
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash\Crash\obj\x86\Debug\Crash.application
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash 1.1\Crash\obj\x86\Debug\Crash.exe
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\myCrash 1.1\Crash\obj\x86\Debug\Crash.pdb
